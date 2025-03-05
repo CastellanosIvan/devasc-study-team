@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 "Estoy en camino para pasar el examen DEVASC de Cisco" 
 "Estoy empezando a entender Git!" 
 "Este texto se agreg¢ originalmente en la rama de caracter¡sticas" 
+=======
+Estoy de camino para pasar el examen DEVASC de devnet
+Estoy empezando a entender Git!
+Este texto se agregÃ³ originalmente en la rama de caracterÃ­sticas
+>>>>>>> a4161b9dd51549a98681b5e917a0b3f9785096f5
